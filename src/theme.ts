@@ -15,5 +15,5 @@ export const tslcTheme = createTheme({
     ],
   },
   fontFamily: 'PT Sans, sans-serif',
-  headings: { fontFamily: 'Aldrich, sans-serif' },
+  headings: { fontFamily: 'PT Sans, sans-serif' },
 });
